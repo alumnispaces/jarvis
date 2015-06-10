@@ -9,5 +9,9 @@
   "hubot-redis-brain",
   "hubot-rules",
   "hubot-shipit",
-  "hubot-conspire"
+  "hubot-conspire",
+  "hubot-whois",
+  "hubot-darksky",
+  "hubot-cheer",
+  "hubot-swanson"
 ]
