@@ -24,7 +24,7 @@ module.exports = (robot) ->
 	robot.hear /dropped call/i, (msg) ->
 		msg.send "http://gifrific.com/wp-content/uploads/2013/01/Ari-Gold-Anger-Throws-Phone-Against-Wall-Entourage.gif"
 
-	robot.hear /kill andrew/i, (msg) ->
+	robot.hear /kill trusty/i, (msg) ->
 		msg.send "http://24.media.tumblr.com/tumblr_lttn2wAadO1qmywdio1_250.gif"
 
 	robot.hear /calm down/i, (msg) ->
