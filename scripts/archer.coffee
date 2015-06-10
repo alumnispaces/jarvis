@@ -12,8 +12,6 @@
 # Author:
 #   rrix
 
-scraper = require 'scraper'
-
 module.exports = (robot) ->
 
   robot.hear /^loggin/i, (msg) ->
